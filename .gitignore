@@ -1,0 +1,44 @@
+# Ignore object files
+*.o
+*.obj
+
+# Ignore executable files
+*.exe
+*.out
+
+# Ignore compiled binary files
+*.bin
+*.hex
+
+# Ignore listing and map files
+*.lst
+*.map
+
+# Ignore debugging files
+*.d
+*.dbg
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*.swo
+
+# Ignore build directories
+/build/
+/output/
+/bin/
+/obj/
+
+# Ignore user-specific IDE files (for example, for Visual Studio or Code::Blocks)
+*.user
+*.suo
+*.ncb
+*.opt
+
+# Ignore log files
+*.log
+
+# Ignore MacOS specific files
+.DS_Store
