@@ -45,3 +45,6 @@
 *.OBJ
 *.EXE
 *.MAP
+
+
+*html

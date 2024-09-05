@@ -1,3 +1,8 @@
+;Filename: EXER1.ASM
+;display
+;KENT A. RATO
+;Date: August 30, 2024
+
 .model small
 .code
 .stack 100

@@ -1,4 +1,5 @@
-; Displaying single characters, numbers, and symbols
+;Filename: DEMO.ASM
+; “Hello world!”
 ; KENT RATO
 ; Date: August 30, 2024
 
